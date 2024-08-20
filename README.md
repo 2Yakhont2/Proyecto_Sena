@@ -1,4 +1,4 @@
-# Tienda Online en django 
+# Ferreteria Construmole (Python + Django)
 
 ## Instrucciones para la instalación de paquetes
 
@@ -18,7 +18,7 @@ el comando: __pip install -r "requirements.txt"__
 En el paso anterior instalamos los paquetes necesarios para correr la aplicación, ahora
 ejecutaremos tres comandos para mantener la integridad de los datos. 
 
-- Abrir la carpeta ecom
+- Abrir la carpeta ecommerce
 - Ejecutar el comando __python manage.py makemigrations__
 - Ejecutar el comando __python manage.py migrate__
 - Iniciar la apliación: Ejecutar el comando __python manage.py runserver__
